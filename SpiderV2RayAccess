@@ -1,6 +1,6 @@
 {
     "Message": "This app blocked by developer! Contact: Fixbuild!",
-    "app.fixbuild.vpncore.spiderv2rayLogin": {
+    "app.fixbuild.vpncore.spiderv2ray": {
         "isDestroy": false,
         "isCheck": true,
         "cBlockApi": "https://spider-v2ray.xyz/api/aer7zexa1f/auth?",
