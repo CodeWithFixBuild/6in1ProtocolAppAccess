@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.suptocloud": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "1GFQ4h9cOvRrGR4GCf8lZ7gb/WD1qT2nqcE+c/tiysdxR3YR/H9yRRuL+BY=",
+        "cBlockGet": "o6Vc3gZFWedRXAE4Dian2TQMPrqoBqaYU5J8fAOYFVktKuh9Ji2myWhyKITnPaQ5CW9/LKomNShRo3oBWuZOR0HitcQ=",
+        "cBlockPost": "3yTbVWDRg9CGUTIEPkHsSSr8faMu866ebIjM2vjiiVjbi8QdwY6TeA==",
+        "cBlockNotice": "EeRFeRtiOImRokDoxQFakFgXb0ugfovMpvvZ3MV45YKW4Lduiwr+ftdlVJaaiE+E7OTxu2UhMT7KKH9E3I5jW9Qx5BC28uyvBFEWlGekn9lkb7eiGzIiu+bYEXOqlXprYkBUxE6zt10="
+    }
+}
