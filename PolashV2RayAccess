@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.polashv2ray": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "w9FyROKiue2PFZwoobnbUzjoiTTbeY1LWhD2kChuzO5tobRmBJcD0d7/AgE=",
+        "cBlockGet": "NNi70y+aPM3V+S1QdF6VPuRTz+c7Gioeicx4z0Re/7hwidLeUmMsQyImv47smmi20r+FUUU0aL/5D/KKfncYYviGrG8=",
+        "cBlockPost": "oV/wcxxhWBpGNZl3DqJ1KNhp5w9nm+MbW68zW7d08edgwSC+vivL5hkbO9M=",
+        "cBlockNotice": "U2n5lVGWLrihJJwYrSKp/k8z4ri6sS7+ooj5EEFPjrAjhIRg7PQz0ZYxgcCd6eSLHmn+e77VFI3GgwGA80TSo8HB5U9LsBTBTeKAD/t0Yku2IPyk+gGMApjIW2JOrVJDngh9Yw=="
+    }
+}
