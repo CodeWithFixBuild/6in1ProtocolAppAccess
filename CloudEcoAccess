@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.cloudeco": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "ZAiH+knjEZ3axHmoZoCMLNmwG4qNgBOxTfghaSkqp6FOr8HgvD/ixQ==",
+        "cBlockGet": "SMqbzqHVyhv5bwQ2hwss5Sp2BhrwLUKt9cTS1IrUTfht1K6GD8LERn+QwHVKqgvHWFUp+oLKBtcDyvjdv0/y7w==",
+        "cBlockPost": "GvZUiioRYErNFVM938E3XKwbnCBuxiI3jH/6SmcPwyLZ1mUeHIiFlA==",
+        "cBlockNotice": "qMIGffNptuAP38k3uG+Vg1tXGCaPV26J0ZdAbUOQJT7IwiSmtWakers/pNtCcVsGE12OvfiIM389WEXsk3F0HcuczPRGgBcvP/OQZTgKcdnggAt/Gpu0DDbJUeR0sgcvSPhKFw=="
+    }
+}
