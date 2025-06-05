@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.rajabossv2ray": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "+WQxRxutD1+xUCV/+Z6Nz0PZL1u5th7VrXDRGmBTbfAbR8YzCgY5xEa7+140ABz3",
+        "cBlockGet": "bPLJitFQAfvUhDrdlWP/s6ptitIRsVNmRgrmv/QFA+frtQ4rwVrT28iMkAF77ZBJ+ReOwZ2pmWoGt9eSUH+LhQ==",
+        "cBlockPost": "9OR6sHPQZvtA3uiAAOhS/IiD6vMlcwz34hcqggEEGNxm1R0WyRrfOs4wWks=",
+        "cBlockNotice": "1AIqdIhKVNbVJJxznpj0sykRc4vqWTWaxY/hCizpzcj0qAxzHKgiginFXZAAw1szbb+3M4UKMbtKW+/l49LBwuC4DFvLM6G978OIT2Ok9aWNn7pr0TRMkjHgGEouFW8ZjPiRhMynt3I="
+    }
+}
