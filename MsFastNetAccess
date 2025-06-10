@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.msfastnet": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "/1Il9/kmKXyzChWZ7nLqFaFR9plAC0NHFkXbEE16YUUS+v4YBBnxKg==",
+        "cBlockGet": "LjUpNlkTziV3x8dHrNr9BYjpHjyJ0SXCjdzrw+G9nvUVRscZo3Sy8odpR6gJUKeAM3XPxJme3fynPTo7SItjyw==",
+        "cBlockPost": "2BMIdxa+9uE2GrfYCuYmAJucUiHD72fmm2ZfSAI65um2rdyM1FNYUQ==",
+        "cBlockNotice": "5jnOvv5l67I+Cs8t7K2Gf6xTxmHq5Fch0kQz9zNAr5jIXORKW9asQDn5XBjgLJgQ6Lowo/kuxrkwDnwJs7LuOETchhOlGZkHNYl4th4dmOfFn/vG+tdNGaFGgx1+Z/BVQZuLKA=="
+    }
+}
