@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.noorvipvpn": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "+CT8Hk/8FBx0cyIoTHBvnb+LnfNZALHXxT0U+LIkWQIyXYzij+TNMAt6agtOgY9d",
+        "cBlockGet": "kIbYPXQiFHFW7p7qT+BlHQd2w/2uKA5nwD0PIB9o1ZMGr+klJFMgR5Of3vAL1yM2R2VC18IWDKPLTtDA",
+        "cBlockPost": "mQpuSynjtFYHupEKWv3S8F+0r6cziR4sJ5mHItBSCzIb7VRt7ar2/A==",
+        "cBlockNotice": "JczbGiBj9sQZ9HstYUZ4d7SSykvZ+J8O1BZGcCdAbxNAzctSJF4hsL4hiRfayRGbfZQoSKHdSTMxRFnyD6Lc/sTMSKgHgNvSXTrP44S3IIaXjDfct8Zx76KNcE2B/7/p3Y1LombkUiaju8T5iO7qkSoTo7hR42c9IbypcWE27YRprrvLfMK3f6JvLenvOKv6"
+    }
+}
