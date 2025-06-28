@@ -3,9 +3,9 @@
     "app.fixbuild.vpncore.msfastnet": {
         "isDestroy": false,
         "isCheck": true,
-        "cBlockApi": "/1Il9/kmKXyzChWZ7nLqFaFR9plAC0NHFkXbEE16YUUS+v4YBBnxKg==",
-        "cBlockGet": "LjUpNlkTziV3x8dHrNr9BYjpHjyJ0SXCjdzrw+G9nvUVRscZo3Sy8odpR6gJUKeAM3XPxJme3fynPTo7SItjyw==",
-        "cBlockPost": "2BMIdxa+9uE2GrfYCuYmAJucUiHD72fmm2ZfSAI65um2rdyM1FNYUQ==",
+        "cBlockApi": "LJuctpO9sWljJ5TOBQVsxTf7TiKpbUtxaDJsgxzL8MtL/byZBobW4w==",
+        "cBlockGet": "IXZFmvBIfuAR7zATQu5IqM0gima/Dy89D9E4Hi3Rd1C76rwux1wUmfWUClRtXbhLCkJ3MyBP9Anw9zpX9dd4PQ==",
+        "cBlockPost": "i4Idl+NfOAeIEo44MJN6JM/xazvCey33CkZCQcW2Fe3DSeyK",
         "cBlockNotice": "5jnOvv5l67I+Cs8t7K2Gf6xTxmHq5Fch0kQz9zNAr5jIXORKW9asQDn5XBjgLJgQ6Lowo/kuxrkwDnwJs7LuOETchhOlGZkHNYl4th4dmOfFn/vG+tdNGaFGgx1+Z/BVQZuLKA=="
     }
 }
