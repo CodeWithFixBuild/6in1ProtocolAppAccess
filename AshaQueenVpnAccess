@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.ashaqueenvpn": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "ybiSQGiDIoCYr1AYhooa/CEDGfvrntPVlspQcISuXBTqBgMrXzEuJUZAO38=",
+        "cBlockGet": "HjsVtmDZZa6QmseAbdsUv7n7OmC8fWmXZccSw8JlB9L1+iBBxVy8LTMtsQHs4kRs+pgqqvqbsiwdDPGO",
+        "cBlockPost": "YNqfd/pF2X8L6dujn8/Wd5aVT25NC801x6NaVFCQpPn8Mctq+imb0Q==",
+        "cBlockNotice": "fGQEHooXJcSqBTX39BwDAN8qAFsVsIPZxUmE/2KsUYYhkw8p7NgWXOGWUkKeK9GsyRPx1rbtzzzCprsjHEZ2Ckx9iECDQQDT7n/17yuCQ0mARH2qUBT1HFQvIAIgP+3RQMWVeh/0/LE="
+    }
+}
