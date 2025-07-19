@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.netguard": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "/xxg+qTJwy0eiJqgM960HS2F6egrGsIe5qHz3V3ZkkOdivmkt9Lb1cccQd4=",
+        "cBlockGet": "obpoGCAU0rVX16J7jrhEGkAy5P3F1HD/tKiPrtq2BTPuVIuyTG1Fnq7pcIscZ2WGCZRE0dNfxsPXlq0RuHifJuHgiss=",
+        "cBlockPost": "iJ474ki7v3GQviOUV6EgjuiVFd+Z6FcnZqrGV1+LJL/E2J1Iljlj4wUdRcw=",
+        "cBlockNotice": "rzmsGKzp1br52rCI7afzHMV86gBTQJ/nU7QyawUOB8axKilKtGl6TCwe+vN5ggTFNl9kXuMWUh1CLoeOJnNllLQ4DCsR8C5CAhPq3rSO+lv8Q4Pokx2qrkLqR7YaChUNgCneKg=="
+    }
+}
