@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.nextv2ray": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "iWoSG/ezfSwUlUSddOmXwNNGodpl70kg4xrUIOKCsdmnQc8xsrGPBNRwFNKY9nJ/",
+        "cBlockGet": "lBciodNWqNp1pdf96s4g/Xc453NpkAoaODstNO9EJX++PU6UykV9fKdUIrMR++J6szsIQ4AvTHtgseo4lOrYfwMnITwm3uJ+",
+        "cBlockPost": "eQMWcLCTwtibmaPz1FjjChp4F9YBGgj9E8q7uHn1JsTB7AZH015hpJzcBaI=",
+        "cBlockNotice": "xeI8+lEz8/kLV9JvCyqpppg+2dYcmuWE6fQiLe56kI8JReMIHg7YtVncqxf+rxka0ie1GDE3FEyXzebKNjc0uaAX/LxtTj0Wq2NtliTnsCYixglneaBbbySLJ34N+52yMwpQgg=="
+    }
+}
