@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.ultramaxlite": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "p3XaTc7ICsZ0qQZrW3F99G6yR8EKWF9X2c/B/3nTCtBp4F3jqYlcn9rG7DsxNsAl",
+        "cBlockGet": "7Ec9t6M50pFluyVhvZi0v/4DoKQxW1H8CMzb1HPfRBNspq3cNHTDa+C0QSxzgAVYFnBdhTOvtICcpPE8dWhHcw==",
+        "cBlockPost": "N/TE2gR+i01jNNEcbwbVXeW2v7LtgSikyWk6cYVv6kuCza9JyDe9VNucJLo=",
+        "cBlockNotice": "WscdWVPHNENvhhLQdDn8Z/Q6zUBhGt5rRvXHwFmFtS6nd8wq1BKpW3PJd1Ko6wCcURSdWfFDw9Fwvdv9WrNrRqobdVYBhYkRV6xwHtSafTCn/oxIQ409rQmgIJhWpjx4+9UqB3muWuQ="
+    }
+}
