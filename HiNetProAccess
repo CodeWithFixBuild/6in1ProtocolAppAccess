@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.hinetpro": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "UNWyAtiFMw2wVqLJSB44X90l9QZXeqBp34+m6ygfdp1wc6ho5P8yFg==",
+        "cBlockGet": "BMk0hUTjjGjFu31c6GrlE7MftxnraXwaj2oA8NQmj4AaKxQdmYVTMG5jHBq2uXUrediFebt/YHA3MIiIIGMWzw==",
+        "cBlockPost": "Y0RdLtm3Nfk0T+4A1SxylmK1weI6qslJO/2YMGXgaYQJj5dl07RoCA==",
+        "cBlockNotice": "tWSe/lG16Asdir4nDikic4hF3v3uvEuFVmcKOkkzK3Z9S5WQ78MJ8jhU+UxTS1Kr/oV0ktzXDfYDmXxRpZfW5f5E3q5BVkbndn2AnoQVka2WrFyNV4nRJZ4rJlxdeLT1"
+    }
+}
