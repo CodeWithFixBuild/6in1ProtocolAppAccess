@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.firenetv2ray": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "BGNKA+iFPEgdfCG6Jxa88xzIukfvxUR9fPToDyYZMSi4D8lY2gqX5Qrf+4tTLGgz",
+        "cBlockGet": "+DqPZqLOuMZ4b+V1I/fsr+g5LhLbDJ6adFnW2WSJ2qI3uM0hHDp6cbi9zsyVGFSiZ0ABHuhVLnkZvzEPdBWoW2DPZbOLZiFL",
+        "cBlockPost": "+xUBVwkBKJ98aker20c4krowWzYGAxP6osMPC/RC2fFsnX73oSrG4zVGTZA=",
+        "cBlockNotice": "9VwgiDjZRAaPogYZh22FlSFe4ehBk7ZkxCBv5kYlHrxtdKIBhEGDs2QZYEuGguzgSxrp8HHV0W9VFVVCK9Y+P3t/sFgVSCLhEqsq9Jz0Bqnfd4Xu3ZykEM67VQePjNP2xlA26ggICos="
+    }
+}
