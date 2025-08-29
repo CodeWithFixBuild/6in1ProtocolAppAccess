@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.kmtunnelvip": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "I9FuFqF1vlv6WnFVAXdq/XsV5vIS1H3sM9MvFbhihqI4L5lccYTo5g==",
+        "cBlockGet": "k06UC+FnWAcDb2eFrBJHPIHZ9xtA6bOfn7CZ0pDv+Wog6HZEW5S86s1KBgzyfjrcgV3kkv6NVjv9VLYf3JcFQQ==",
+        "cBlockPost": "qMC9eVz0sOx3JuibrqQaTNqmP/kcpSFtkISwTunr4Zk0pxrLl5/b7Q==",
+        "cBlockNotice": "B+K6bOeytKUyaOyRM8r4qiYTpJ5gcDWkoKdtxp8FBmnyMBrgsiYFIsjqt6cs3Pc8DwKu9YxwZ9XECNIo2GgojTxqIYHa7jRXBM0qehpVY8uPeT6gIzsilsf8RWMfcplGoVDdSA=="
+    }
+}
