@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.satunnelv2ray": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "Z3IdFqo+SKSRaIauzWfIeFD8HSska3neOgiG8bVXMAbsK96a84mYSuD5byln2YL6",
+        "cBlockGet": "M+IKNfyKJspPJUGvaVBH4fHgaYqbHMxncgu+TF4n5CaJZH7JKgaTK2BkPxcRy1HFnSP+OZjEMMu4EpORhlw4XQ==",
+        "cBlockPost": "HEhs+GkmX+ujQzj1E9WRkyvZstXMrswlyuNTO2CJcTzyb0DZdG8+ViYiYTE=",
+        "cBlockNotice": "nqzkbAg7/TxnxYBouYiFM9v/FKLpdzPbxZ1MhMmphUdTEU8nm9UfUWSaSm/jPOiL98+8vGQWax4KBoZRlxpWqhtXoTlJde29TM4k1fNAikE9lo0rNosy2/O+u9qsctz9CNMZOw=="
+    }
+}
