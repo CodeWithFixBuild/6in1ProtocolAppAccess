@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.blackhorsev2ray": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "4oqQUQpiubwoSHbwg4FVDkQ1PfTmkzqP6vMfmq4U5TYQAHGaGy1wr9NZaEnrb2mPVSHNvg==",
+        "cBlockGet": "EKL9lPkAVENdFy7AwpdvHYNycaKpp+IhrwhkHciz6u9YKR9NNdoxF/Dw4nCEph9WD5UVuEM5H8cPLJWDaH6PdABYGY4=",
+        "cBlockPost": "bZ/dqqvmsUzLCQ89NwjvwjQcfeU4pTWN1O2SEa+5FXTAO9q4mLNGg5c2MFssPovS",
+        "cBlockNotice": "YMjHaBrWhmK15/1dtJv1S1Jtff3QxlTr683JfLe5Z9M4wO77LjLE0A3s+wJ7akKnbXhKyOvTTUBSkD1hncIH9zrtOXlu0KvGGWgwIrTdjP0THulYca8byfX2g1mnfpboJ5W3Kw=="
+    }
+}
