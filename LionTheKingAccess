@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.liontheking": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "Fi10+UOEnJ11ewG1YgOpn4tJE/KAlA4Cf6i33JGjb3vYJa5Un/WVEJP3GVU=",
+        "cBlockGet": "jQ8wtKVe3INsAyM4XiVOlUehADIuPBT8oScBuBngCY1PtE9p02qjAoWni/F0k8+XCuSG/V6k0+1+YTmHzhqrD1k3Eo4=",
+        "cBlockPost": "eIhle6+LESZlvmbLPanbPwmVNGuppV6qQLke45/djSehQnZbbHQB5w==",
+        "cBlockNotice": "I7eNxjlIpOTQBAYd6s85z65CXh0d7mJ1JBPQ3WTqDYTxrJu2SRntHNCcqqwzMfpcJGYqziAU8Zq30ueQHPdt9ipZrj5VmXkGXLAMEL6qgKJHa8Z0YrIyKC2Px698Xyn34vM5Vg=="
+    }
+}
