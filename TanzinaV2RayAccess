@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.tanzinav2ray": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "DW5JpO0KEoqFGTRwjv/AHLGaszQlyH+39vv0PJvJtvx0iPiWdijsKjz80TSkIflV",
+        "cBlockGet": "DckDos5aN22Dz7is0CjGuwyWmHk8w27f4Vk3jk/m19LUC+tV+94cc9Wyq1CwPu5kB0dmfF8/uZSIgLST",
+        "cBlockPost": "3AEVkpBamWx0kopu9HQ1Pml06qU3RD3y79h2sdfxvp9ohWlOCgPFNg==",
+        "cBlockNotice": "IVP0bHI+8Gy1JCYGv8VNGSbhf11RYMkoNJCP/ja/d70Wr/rcl4EZoTVtliricxYVAbvk5CnCWNZ2gaSBIkFrWzxb+NyopYJlKtPh727B1rI77DJM3eP5xbb4w/6ZGxdXhfaJFw=="
+    }
+}
