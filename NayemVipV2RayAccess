@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.nayemvipv2ray": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "rcqcpMXIIc8t16HKC0vtZUxc7m4Z3N+CURplOnhsiffKBwg2zZJVdA==",
+        "cBlockGet": "ywe22TRFCXMNzPjP+KihuqWsVTzUo4+E84Z3XW5IjJSYu7DeXP55xAe2u1ewLgRcc5hzZj5aMmV0kg9luRJ3aXVrDFA=",
+        "cBlockPost": "+R/EomJvlAJlRESA34KB18xtwAMuvcwqHVOIoFm8yKgs3ALRz3x3fw==",
+        "cBlockNotice": "cFz9JrANJUTc6z7xEBNpQ/iXvjdTDDbMPLnt+7Aw+s77bK4qThkFDzfIa5wG6JdXNwtlyFGfSi2/rGzzq2WjYdoeKeLO8sYzvbaGCKuohDGYddlwRzuX0NeJpFRNaFevPHsxUQ=="
+    }
+}
