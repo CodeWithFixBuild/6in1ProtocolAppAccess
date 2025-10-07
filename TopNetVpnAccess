@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.topnetvpn": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "8v9EDgWbT0td33gUk8T/KiuF0vFbOxQ0P7Ag9pIVnV20NOGmpNVUgOISJlW0IHqa",
+        "cBlockGet": "GLZBJMtdsOf7YwhpvTJNEU8rzrlqgi5wn9zpUNDH5y4NV+0kofsQoxCI+HjcgVdPJFhmi34g5agD+D8f",
+        "cBlockPost": "AD4H1FKHJa1CgqkuFE74m3r7e+o1INcqw7MA3lKkQCCf5USnONtLrc2uqso=",
+        "cBlockNotice": "OO+mi07LEjeLigr2xU2QF0s927RC7/zS7lvfWTKFH6wB+EX5qnsfMnGGlYoxuOBG/T6QPeSOTWaKbVTFYdZzDrAzHkQRkT5fZcE5T9KTZPiv+OUN5htG6jofpj45/04f"
+    }
+}
