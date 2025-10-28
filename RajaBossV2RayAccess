@@ -1,7 +1,7 @@
 {
-    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "Message": "This app blocked by developer! Due to use Leak V2Ray Dns! Contact: Fixbuild!",
     "app.fixbuild.vpncore.rajabossv2ray": {
-        "isDestroy": false,
+        "isDestroy": true,
         "isCheck": true,
         "cBlockApi": "+WQxRxutD1+xUCV/+Z6Nz0PZL1u5th7VrXDRGmBTbfAbR8YzCgY5xEa7+140ABz3",
         "cBlockGet": "bPLJitFQAfvUhDrdlWP/s6ptitIRsVNmRgrmv/QFA+frtQ4rwVrT28iMkAF77ZBJ+ReOwZ2pmWoGt9eSUH+LhQ==",
